@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cloud-disk/static/css/main.a311b01e.css",
-    "main.js": "/cloud-disk/static/js/main.349c8180.js",
+    "main.js": "/cloud-disk/static/js/main.151e7030.js",
     "static/media/navbar-logo.svg": "/cloud-disk/static/media/navbar-logo.d4bf1b42f0c4215dbdb5a08b08d32548.svg",
     "index.html": "/cloud-disk/index.html",
     "main.a311b01e.css.map": "/cloud-disk/static/css/main.a311b01e.css.map",
-    "main.349c8180.js.map": "/cloud-disk/static/js/main.349c8180.js.map"
+    "main.151e7030.js.map": "/cloud-disk/static/js/main.151e7030.js.map"
   },
   "entrypoints": [
     "static/css/main.a311b01e.css",
-    "static/js/main.349c8180.js"
+    "static/js/main.151e7030.js"
   ]
 }

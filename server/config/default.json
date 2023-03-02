@@ -1,5 +1,5 @@
 {
   "serverPort": 5000,
-  "dbUrl": "mongodb+srv://AliTorta:lolplay2006@cluster0.tfljujc.mongodb.net/?retryWrites=true&w=majority",
+  "dbUrl": "mongodb+srv://AliTorta:kekplay2006@atlascluster.t7da4ly.mongodb.net/?retryWrites=true&w=majority",
   "secretKey": "mern-secket-key"
 }
